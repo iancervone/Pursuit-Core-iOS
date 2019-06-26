@@ -1,5 +1,5 @@
 # Pursuit Core 5.3: Mobile Development with iOS
-
+WHAT IS GOING ON
 ## Welcome!
 
 This is where you'll find some common resources as well as full lessons. 
